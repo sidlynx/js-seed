@@ -1,0 +1,19 @@
+{
+  "name": "js-seed",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidlynx/js-seed.git"
+  },
+  "author": "sidlynx@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidlynx/js-seed/issues"
+  },
+  "homepage": "https://github.com/sidlynx/js-seed#readme"
+}
